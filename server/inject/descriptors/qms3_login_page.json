@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "[name=\"login_form\"]",
       "control": "exists"
+    },
+    "user_code": {
+      "type": "string",
+      "selector": "[name=\"flex_user_code\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
