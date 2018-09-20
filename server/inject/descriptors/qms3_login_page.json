@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "this_is_login_page": {
+      "type": "identifier",
+      "selector": "[name=\"login_form\"]",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
