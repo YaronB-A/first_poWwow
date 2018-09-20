@@ -9,7 +9,7 @@
     "user_code": {
       "type": "string",
       "selector": "[name=\"flex_user_code\"]",
-      "control": "property.innerText"
+      "control": "text"
     }
   },
   "connect": []
