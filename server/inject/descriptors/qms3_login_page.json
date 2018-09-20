@@ -15,6 +15,11 @@
       "type": "string",
       "selector": "[name=\"psswd\"]",
       "control": "text"
+    },
+    "login_click": {
+      "type": "action",
+      "selector": "[name=\"log_in\"]",
+      "control": "attrib.onclick"
     }
   },
   "connect": []
