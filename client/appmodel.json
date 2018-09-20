@@ -42,5 +42,19 @@
         }
       }
     }
+  },
+  "qms3_login_page": {
+    "type": "object",
+    "properties": {
+      "user_code": {
+        "type": "string"
+      },
+      "passwd": {
+        "type": "string"
+      },
+      "login_click": {
+        "type": "action"
+      }
+    }
   }
 }

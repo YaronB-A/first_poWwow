@@ -20,7 +20,7 @@
       "name": "Login-Cool",
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
-      "model": "logincool"
+      "model": "qms3_login_page"
     }
   ],
   "sourceAppId": "_blank",
