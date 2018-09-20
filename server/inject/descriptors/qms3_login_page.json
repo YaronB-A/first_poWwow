@@ -10,6 +10,11 @@
       "type": "string",
       "selector": "[name=\"flex_user_code\"]",
       "control": "text"
+    },
+    "passwd": {
+      "type": "string",
+      "selector": "[name=\"psswd\"]",
+      "control": "text"
     }
   },
   "connect": []
