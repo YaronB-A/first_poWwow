@@ -19,7 +19,7 @@
     "login_click": {
       "type": "action",
       "selector": "[name=\"log_in\"]",
-      "control": "attrib.onclick"
+      "control": "action.button"
     }
   },
   "connect": []
