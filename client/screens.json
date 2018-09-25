@@ -33,7 +33,8 @@
       "id": "menu1",
       "name": "menu1",
       "sourceScreenId": "app.menu",
-      "sourceAppId": "first_powwow"
+      "sourceAppId": "first_powwow",
+      "model": "server_monitor"
     }
   ],
   "sourceAppId": "_blank",
