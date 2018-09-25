@@ -91,7 +91,11 @@
     "type": "object",
     "properties": {
       "monitor_data_html": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
       }
     }
   }
