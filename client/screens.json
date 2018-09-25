@@ -35,6 +35,12 @@
       "sourceScreenId": "app.menu",
       "sourceAppId": "first_powwow",
       "model": "server_monitor"
+    },
+    {
+      "id": "blank",
+      "name": "BLANK",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
