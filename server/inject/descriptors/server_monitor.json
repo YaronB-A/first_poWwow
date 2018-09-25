@@ -10,6 +10,11 @@
       "type": "string",
       "selector": "#monitor",
       "control": "property.innerHTML"
+    },
+    "logged": {
+      "type": "string",
+      "selector": "#logged",
+      "control": "property.innerHTML"
     }
   },
   "connect": [
@@ -21,5 +26,6 @@
         "menu1"
       ]
     }
-  ]
+  ],
+  "selector": "#logged"
 }
