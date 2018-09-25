@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "#monitor",
       "control": "exists"
+    },
+    "monitor_data_html": {
+      "type": "string",
+      "selector": "#monitor",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
