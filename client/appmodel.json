@@ -86,5 +86,13 @@
         "label": "ListItems"
       }
     }
+  },
+  "server_monitor": {
+    "type": "object",
+    "properties": {
+      "monitor_data_html": {
+        "type": "string"
+      }
+    }
   }
 }

@@ -12,5 +12,14 @@
       "control": "property.innerHTML"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "monitor_div"
+      ],
+      "screens": [
+        "monitor"
+      ]
+    }
+  ]
 }
