@@ -28,6 +28,12 @@
       "sourceScreenId": "app.tableview.tabledatacool",
       "sourceAppId": "universaltemplates",
       "model": "server_monitor"
+    },
+    {
+      "id": "menu1",
+      "name": "menu1",
+      "sourceScreenId": "app.menu",
+      "sourceAppId": "first_powwow"
     }
   ],
   "sourceAppId": "_blank",
