@@ -21,6 +21,13 @@
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "qms3_login_page"
+    },
+    {
+      "id": "monitor",
+      "name": "monitor",
+      "sourceScreenId": "app.tableview.tabledatacool",
+      "sourceAppId": "universaltemplates",
+      "model": "monitor"
     }
   ],
   "sourceAppId": "_blank",
