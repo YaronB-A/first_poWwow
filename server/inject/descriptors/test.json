@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": "#logged",
       "control": "exists"
+    },
+    "logged_data": {
+      "type": "string",
+      "selector": "#logged",
+      "control": "property.innerHTML"
     }
   },
   "connect": [
