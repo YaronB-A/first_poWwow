@@ -3,7 +3,7 @@
   "properties": {
     "is_top_div": {
       "type": "identifier",
-      "selector": "#top_div",
+      "selector": "#logged",
       "control": "exists"
     }
   },
