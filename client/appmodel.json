@@ -87,21 +87,6 @@
       }
     }
   },
-  "server_monitor": {
-    "type": "object",
-    "properties": {
-      "monitor_data_html": {
-        "type": "string",
-        "update": {
-          "type": "change",
-          "dynamic": false
-        }
-      },
-      "logged": {
-        "type": "string"
-      }
-    }
-  },
   "test": {
     "type": "object",
     "properties": {}
