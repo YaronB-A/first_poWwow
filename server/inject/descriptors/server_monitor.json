@@ -17,15 +17,6 @@
       "control": "property.innerHTML"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "monitor_div"
-      ],
-      "screens": [
-        "monitor"
-      ]
-    }
-  ],
+  "connect": [],
   "selector": "#logged"
 }
