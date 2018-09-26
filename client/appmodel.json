@@ -96,6 +96,9 @@
           "type": "change",
           "dynamic": false
         }
+      },
+      "logged": {
+        "type": "string"
       }
     }
   }
