@@ -23,13 +23,6 @@
       "model": "qms3_login_page"
     },
     {
-      "id": "menu1",
-      "name": "menu1",
-      "sourceScreenId": "app.menu",
-      "sourceAppId": "first_powwow",
-      "model": "server_monitor"
-    },
-    {
       "id": "blank",
       "name": "BLANK",
       "sourceScreenId": "app.blank",
