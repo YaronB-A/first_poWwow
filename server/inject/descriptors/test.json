@@ -13,7 +13,7 @@
         "is_top_div"
       ],
       "screens": [
-        "monitor"
+        "blank"
       ]
     }
   ]
