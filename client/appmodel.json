@@ -89,6 +89,10 @@
   },
   "test": {
     "type": "object",
-    "properties": {}
+    "properties": {
+      "logged_data": {
+        "type": "string"
+      }
+    }
   }
 }
