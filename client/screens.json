@@ -27,7 +27,7 @@
       "name": "monitor",
       "sourceScreenId": "app.tableview.tabledatacool",
       "sourceAppId": "universaltemplates",
-      "model": "server_monitor"
+      "model": "test"
     },
     {
       "id": "menu1",

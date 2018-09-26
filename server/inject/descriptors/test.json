@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "properties": {
+    "is_top_div": {
+      "type": "identifier",
+      "selector": "#top_div",
+      "control": "exists"
+    }
+  },
+  "connect": [
+    {
+      "match": [
+        "is_top_div"
+      ],
+      "screens": [
+        "monitor"
+      ]
+    }
+  ]
+}
