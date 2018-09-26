@@ -19,7 +19,8 @@
       ],
       "screens": [
         "blank"
-      ]
+      ],
+      "model": "test"
     }
   ]
 }
