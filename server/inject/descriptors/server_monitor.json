@@ -3,7 +3,7 @@
   "properties": {
     "monitor_div": {
       "type": "identifier",
-      "selector": "#monitor",
+      "selector": "#logged",
       "control": "exists"
     },
     "monitor_data_html": {
