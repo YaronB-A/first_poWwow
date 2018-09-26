@@ -61,7 +61,11 @@
     "type": "object",
     "properties": {
       "logged_data": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
       }
     }
   }
