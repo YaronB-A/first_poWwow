@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "95ae8024",
   "uiCommonVersion": "5.0.58",
-  "creatorId": "migqms3b"
+  "creatorId": "migqms3b",
+  "id": "first_powwow",
+  "previewImageURL": "/previews/95ae8024-first_powwow/.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/YaronB-A/first_poWwow",
+  "creatorName": "Yaron Ben-Arieh",
+  "sdks": []
 }
