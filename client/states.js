@@ -33,15 +33,6 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.monitor', {
-        views: {
-            app: {
-                controller: 'app_monitor',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.monitor');
-                }
-            }
-        }
     }).state('app.menu1', {
         views: {
             app: {
